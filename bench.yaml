@@ -12,12 +12,12 @@ tapeouts:
   project: gf180mcu-jku-projects
   size: 1x1
   kind: digital
-  commit: ebfc69daad23
+  commit: a8300eb7e011
   commit_source: design_ref head recorded by the ws-run1/2 audit
   tag: wafer.space/ws-run1/JKU1
   branch: tapeout/wafer.space/ws-run1/JKU1
   page: https://wafer.space/ws-run1/
-generated: '2026-10-17T23:50:53Z'
+generated: '2026-10-24T08:07:42Z'
 tooling: https://github.com/wafer-space/wafer.space-bench
 index: https://wafer-space-bench.github.io
 branches:
